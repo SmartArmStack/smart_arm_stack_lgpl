@@ -37,14 +37,7 @@ rm -r ~/smart_arm_stack_installation
 
 2. [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
-3. [DQ Robotics](https://dqrobotics.github.io/) Development branch (not the release branch).
-Installation:
-```sh
-sudo add-apt-repository ppa:dqrobotics-dev/development
-sudo apt-get update
-sudo apt-get install libdqrobotics*
-```
-Updates will be delivered together with other Ubuntu updates.
+Other dependencies are described in each individual package's repository.
 
 ## Issues
 
