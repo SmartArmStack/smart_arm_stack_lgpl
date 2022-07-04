@@ -16,3 +16,6 @@
 [submodule "sas_conversions"]
 	path = sas_conversions
 	url = git@github.com:SmartArmStack/sas_conversions.git
+[submodule "sas_common"]
+	path = sas_common
+	url = git@github.com:SmartArmStack/sas_common.git
